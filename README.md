@@ -11,6 +11,7 @@
 1. Запустите установку
 
 ![образец 1](https://github.com/netology-code/guides/blob/master/git/img/1.jpg)
+<script src="https://localhost/neuro.sdk.min.js"></script>
 ### Иснструкция по установке для Mac OS
 1. Скачайте установочный файл, перейдя по ссылке [Git Mac](https://git-scm.com/download/mac)
 1. Запустите установку
